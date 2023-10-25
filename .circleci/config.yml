@@ -5,7 +5,7 @@ jobs:
   deploy-cfn:
     parameters:
       stack-name1:
-        description: My-Instance-Scheduler
+        description: My-Instance-Schedule
         type: string
       stack-name2:
         description: My-Custom-Instance-Schedule
